@@ -5,6 +5,12 @@ build/
 dist/
 wheels/
 *.egg-info
+*.pyc
+
 
 # Virtual environments
 .venv
+
+# data
+
+data/*.json
