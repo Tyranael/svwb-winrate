@@ -12,6 +12,6 @@ Build a CLI based app (might use a tkinter based UI later) to register new decks
 - Direct input via CLI with different commands (add deck, add match, check stats)
 - output to .json file
 
-# Usage 
+## Usage 
 
 The MVP only supports Forest deck and a single input at a time
